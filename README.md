@@ -12,10 +12,10 @@ Build a  `One-to-One chat app` with **Firebase Realtime database** and deploy it
       4. message read notification (blue double tick like WhatsApp)
 
 ## How you are going to run the App-
-First run the server or backend with the help of following commands
+####First run the server or backend with the help of following commands
   - npm install
   - npm start
-Then run the frontend with the help of following commands
+####Then run the frontend with the help of following commands
   - npm install
   - npm start
  
