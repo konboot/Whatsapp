@@ -6,16 +6,16 @@
  
 ## Problem Statement:
 Build a  `One-to-One chat app` with **Firebase Realtime database** and deploy it to **Firebase Hosting**
-      1. list active users who are online
-      2. message send (single tick like WhatsApp) 
-      3. message delivery notification (double tick like WhatsApp)
-      4. message read notification (blue double tick like WhatsApp)
+      <br>1. list active users who are online
+      <br>2. message send (single tick like WhatsApp) 
+      <br>3. message delivery notification (double tick like WhatsApp)
+      <br>4. message read notification (blue double tick like WhatsApp)
 
 ## How you are going to run the App-
-####First run the server or backend with the help of following commands
+<br> First run the server or backend with the help of following commands
   - npm install
   - npm start
-####Then run the frontend with the help of following commands
+<br> Then run the frontend with the help of following commands
   - npm install
   - npm start
  
