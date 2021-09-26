@@ -1,7 +1,7 @@
 # Whatsapp
 
 ## About Myself-
- Hola! I am Prachi Dixit aka 18BCY10064 at VIT😜.
+ Hola! I am Prachi Dixit aka 18BCY10064 in VIT😜.
  This assessment is given by Lets Dive Company.
  
 ## Problem Statement:
@@ -15,6 +15,7 @@ Build a  `One-to-One chat app` with **Firebase Realtime database** and deploy it
 <br> First run the server or backend with the help of following commands
   - npm install
   - npm start
+  
 <br> Then run the frontend with the help of following commands
   - npm install
   - npm start
